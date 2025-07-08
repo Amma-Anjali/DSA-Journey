@@ -1,6 +1,3 @@
-// LeetCode: https://leetcode.com/problems/range-sum-query-immutable/
-// Topic: Prefix Sum
-// Difficulty: Easy
 
 // Description:
 //   Builds a prefix sum array during construction.
