@@ -1,3 +1,6 @@
+// LeetCode: https://leetcode.com/problems/range-sum-query-immutable/
+// Topic: Prefix Sum
+// Difficulty: Easy
 class NumArray {
 
     private int[] prefixSum;
