@@ -1,3 +1,10 @@
+// LeetCode: https://leetcode.com/problems/range-sum-query-immutable/
+// Topic: Prefix Sum
+// Difficulty: Easy
+// Description:
+//   Builds a prefix sum array during construction.
+//   Allows fast O(1) range sum queries using the difference of prefix sums.
+
 class NumArray {
 
     private int[] prefixSum;
